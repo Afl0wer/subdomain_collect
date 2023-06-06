@@ -10,13 +10,16 @@
 ![Help_Menu](https://github.com/Afl0wer/subdomain_collect/blob/main/help_menu.gif "Help Menu")  
 ## 🚀Usage:
 - 指定爬取页面数量，并将收集到的子域名列表保存至本地文件：  
-`subdomain_collect_bing.py xxx.com -p 20 -f result.txt`
+  
+  `subdomain_collect_bing.py xxx.com -p 20 -f result.txt`
 ---
 - 按照默认设置的页面数量爬取，并将收集到的子域名列表保存至本地文件：  
-`subdomain_collect_bing.py xxx.com -f result.txt`
+  
+  `subdomain_collect_bing.py xxx.com -f result.txt`
 ---
 - 按照默认设置的页面数量爬取，并将收集到的子域名列表打印：  
-`subdomain_collect_bing.py xxx.com`
+  
+  `subdomain_collect_bing.py xxx.com`
 ## ⚡️Example：
 ![example_image](https://github.com/Afl0wer/subdomain_collect/blob/main/example_image.png "example image")  
 
