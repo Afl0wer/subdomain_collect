@@ -31,7 +31,7 @@ def subdomain_collect_by_bing(domain,pages,file_path):
 	subdomain = []
 	cookie_filename = 'cookies.txt'
 	headers={
-		'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36',
+		'User-Agent':'Mozilla/5.4 (Windows NT 11.0; Win64; x64) AppleWebKit/538.29 (KHTML, like Gecko) Chrome/100.1.2.3 Safari/526.33',
 		'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
 		'Referer':'https://cn.bing.com/',
 	}
